@@ -1579,6 +1579,11 @@
           "claimed:1": 0,
           "timestamp:4": 1667570116166,
           "uuid:8": "33eaf8a4-153f-40ae-9914-ddfd0cfdd33e"
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "timestamp:4": 1667767981254,
+          "uuid:8": "4ed1a9db-a0dc-411e-8cf1-d20e77e1d1ba"
         }
       },
       "questID:3": 49,
@@ -3074,6 +3079,11 @@
           "claimed:1": 0,
           "timestamp:4": 1667570113167,
           "uuid:8": "33eaf8a4-153f-40ae-9914-ddfd0cfdd33e"
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "timestamp:4": 1667767973563,
+          "uuid:8": "4ed1a9db-a0dc-411e-8cf1-d20e77e1d1ba"
         }
       },
       "questID:3": 93,
@@ -4918,6 +4928,11 @@
           "claimed:1": 0,
           "timestamp:4": 1667570113205,
           "uuid:8": "33eaf8a4-153f-40ae-9914-ddfd0cfdd33e"
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "timestamp:4": 1667767973565,
+          "uuid:8": "4ed1a9db-a0dc-411e-8cf1-d20e77e1d1ba"
         }
       },
       "questID:3": 174,
@@ -13560,18 +13575,27 @@
       }
     },
     "692:10": {
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "timestamp:4": 1667784143761,
+          "uuid:8": "4ed1a9db-a0dc-411e-8cf1-d20e77e1d1ba"
+        }
+      },
       "questID:3": 692,
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "33eaf8a4-153f-40ae-9914-ddfd0cfdd33e",
+            "1:8": "4ed1a9db-a0dc-411e-8cf1-d20e77e1d1ba"
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval",
           "userProgress:9": {
             "0:10": {
               "data:9": {
                 "0:3": 1,
-                "1:3": 0,
+                "1:3": 1,
                 "2:3": 1
               },
               "uuid:8": "33eaf8a4-153f-40ae-9914-ddfd0cfdd33e"
@@ -13579,7 +13603,7 @@
             "1:10": {
               "data:9": {
                 "0:3": 1,
-                "1:3": 0,
+                "1:3": 1,
                 "2:3": 1
               },
               "uuid:8": "4ed1a9db-a0dc-411e-8cf1-d20e77e1d1ba"
