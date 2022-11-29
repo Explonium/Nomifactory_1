@@ -347,6 +347,7 @@
       "baked_potato": "2022-10-10 22:38:32 +0300",
       "porkchop": "2022-10-10 21:03:29 +0300",
       "apple": "2022-10-10 20:44:57 +0300",
+      "cooked_cod": "2022-11-18 20:02:18 +0200",
       "mutton": "2022-10-10 21:01:00 +0300",
       "bread": "2022-10-11 22:21:00 +0300",
       "carrot": "2022-10-15 00:20:50 +0300"
@@ -386,6 +387,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-10-10 20:41:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2022-11-16 21:13:47 +0200"
     },
     "done": true
   },
@@ -787,6 +794,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-11-24 20:44:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2022-10-10 20:41:23 +0300"
@@ -932,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-11-16 21:13:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-10-10 22:13:53 +0300"
@@ -1007,6 +1026,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-10-10 21:10:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-11-24 20:40:08 +0200"
     },
     "done": true
   },
@@ -1103,6 +1128,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-10-10 22:13:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2022-11-24 21:46:39 +0200"
     },
     "done": true
   },
@@ -1710,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-11-24 20:40:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2022-10-11 22:28:46 +0300"
@@ -1771,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-11-16 22:06:26 +0200"
+    },
+    "done": true
+  },
   "enderio:start/2_simple_chassis_get": {
     "criteria": {
       "inv_changed-enderio:item_material": "2022-10-28 22:09:10 +0300"
@@ -1783,6 +1826,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/facade": {
+    "criteria": {
+      "facade": "2022-11-24 21:59:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-11-02 23:11:52 +0200"
@@ -1792,6 +1841,18 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-10-10 21:00:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2022-11-24 21:46:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2022-11-24 21:47:30 +0200"
     },
     "done": true
   },

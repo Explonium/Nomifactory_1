@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2022-11-29 10:29:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-10-10 21:06:05 +0300"
@@ -366,6 +372,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-10-10 20:28:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2022-11-16 21:40:13 +0200"
     },
     "done": true
   },
@@ -731,6 +743,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/7_black": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-11-18 21:27:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2022-10-10 20:06:17 +0300"
@@ -966,6 +984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-11-16 21:40:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-10-10 20:14:54 +0300"
@@ -1062,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-11-24 20:40:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2022-10-10 21:44:20 +0300"
@@ -1131,6 +1161,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2022-10-14 23:47:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-11-24 20:04:12 +0200"
     },
     "done": true
   },
@@ -1502,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-11-28 21:35:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-10-10 20:34:06 +0300"
@@ -1583,6 +1625,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-10-10 20:28:16 +0300"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/8_blue": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-11-18 20:45:32 +0200"
     },
     "done": true
   },
@@ -1682,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-11-24 20:41:11 +0200"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2022-10-13 20:51:40 +0300"
@@ -1703,6 +1757,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-10-11 11:15:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2022-11-24 20:44:44 +0200"
     },
     "done": true
   },
@@ -1769,6 +1829,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-10-10 20:14:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-11-24 20:40:03 +0200"
     },
     "done": true
   },
